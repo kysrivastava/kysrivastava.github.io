@@ -1,0 +1,28 @@
+title: Yoshita Srivastava
+name: Yoshita Srivastava
+email: yoshitasrivastava@gmail.com
+description: >-
+  Postdoctoral scholar in RNA structural biology and biochemistry.
+  Research focuses on bacterial riboswitches and RNA-Fab interfaces.
+baseurl: "" # leave blank unless deploying to a subdirectory
+url: "https://kysrivastava.github.io"
+lang: en
+locale: en_US
+
+remote_theme: alshedivat/al-folio
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# All navigation/pages are driven by their front-matter, not nav: in config
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
+      author: "Yoshita Srivastava"
+      show_social: true
