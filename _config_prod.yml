@@ -7,8 +7,8 @@ email: yoshitasrivastava@gmail.com
 description: >
   Postdoctoral scholar in RNA structural biology and biochemistry.
   Research focuses on bacterial riboswitches and RNA-Fab interfaces.
-baseurl: ""  # Root URL (leave empty for GitHub Pages)
-url: "https://kysrivastava.github.io"  # Your GitHub Pages URL
+baseurl: "" # Root URL (leave empty for GitHub Pages)
+url: "https://kysrivastava.github.io" # Your GitHub Pages URL
 lang: en
 locale: en_US
 
@@ -28,7 +28,7 @@ kramdown:
   math_engine: katex
 
 # Search functionality
-search: false  # Disabled in production for faster builds
+search: false # Disabled in production for faster builds
 
 # Navigation (automatically generated from _pages)
 nav:
