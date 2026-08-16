@@ -18,6 +18,9 @@ defaults:
       layout: distill
       giscus_comments: true
 
+exclude:
+  - assets/jupyter/blog.ipynb
+
 giscus:
   repo: alshedivat/al-folio
   repo_id: R_kgDOExample
