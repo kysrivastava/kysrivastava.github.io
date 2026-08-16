@@ -1,72 +1,50 @@
-Yoshita Srivastava, Ph.D.
+Nishant Gupta
 Curriculum vitae
 Contact Information
-E-mail: yoshitasrivastava@gmail.com 
-Phone: +1 (585) 685-9044
-LinkedIn: https://www.linkedin.com/in/yoshita-srivastava/
+E-mail: nishantgupta.phy@gmail.com
+LinkedIn: https://linkedin.com/in/nishantg93
+GitHub: https://github.com/nisg-phys
 
 Education
-Ph. D. in Biophysics.                                                                                                          2018-2024
-University of Rochester Medical Center
-Thesis Advisor: Prof. Joseph E. Wedekind
+Ph.D. in Theoretical Physics.                                                                                                 2018-2024
+The Institute of Mathematical Sciences (IMSc), Chennai
+Thesis Advisor: Prof. N. V. Suryanarayana
 
-Integrated BS/MS in Biology                                                                                         2013-2018
-Homi Bhabha Research Institute via National Institute of Science Education and Research (NISER)  
-Thesis Advisor: Dr. Rudresh Acharya
+Experience
+Development Engineer (Client: Target India)                                                                    April 2026 - Present
+eTeam India, Bengaluru, India
+Built skills-based retail automation workflows using Google ADK-style architecture for merchandising and planogram generation.
+Developed evaluation, testing, and observability workflows to verify constraints and make architecture tradeoffs easier to measure.
 
-Research Experience/ Skills
-Post-doctoral Scholar 							   2024 – Present
-Department of Biochemistry and Molecular biology,
-Division of Biological Sciences, University of Chicago 
+Research Associate                                                                                              March 2024 - March 2026
+National Institute of Science Education and Research (NISER), Bhubaneswar, India
+Built Python and Mathematica workflows for non-linear differential equations and related theoretical physics calculations.
+Mentored students and presented research at conferences and seminar series.
 
-RNA-Fab interfaces characterization: Characterized binding kinetics and established structure- function relationship for RNA- Antibody fragment (Fab) interface by Biolayer interferometry (BLI) and SPR.
-RNA: Protein Complex Crystallization: Optimized Fab construct and Crystallized an RNA-Fab complex, solved the complex structure to 2.7Å resolution.
-Graduate Research Assistant                                                                                     2018 – 2024
-Department of Biophysics, Structural, and Computational Biology
-University of Rochester Medical Center 
-Thesis Title: Structure and function analysis of bacterial riboswitches that control translation
-RNA -ligand complex Crystallization: Crystallized and solved structure of four PreQ1-III Riboswitch mutants in complex with their ligands using SLACK SSRL beamline and tools such as Phenix, Coot, XDS and CCP4 suit.
-Gene Regulation Analysis: Adapted and optimized a GFP based bacterial reporter assay to characterize the gene regulatory abilities of riboswitch mutants. 
-Secondary Structure Analysis: Characterized secondary structure of four riboswitch mutants in solution using SHAPE-seq; used GraphPad Prism and Python for data analysis and data visualization.
-Ligand Recognition Characterization: Characterized ligand binding thermodynamics and stoichiometry for NAD+-I riboswitches by testing individual domains and full-length riboswitch using Isothermal calorimetry (ITC) and Size Exclusion chromatography (SEC) to demonstrate promiscuous ligand recognition (Biochemistry, 2023).
-Crystallization Module Development: Developed RNA crystallization and phasing module by engineering methionine residues into the U1A motif and lab-evolved RNA binding proteins.
-Research Assistant, MS                                                                                                  2016-2018
-Cloning and expression of membrane spanning protein: Cloned, expressed and purified sensory domain of a Zn sensing protein ZraS.
+Physics & AI Expert                                                                                       September 2025 - January 2026
+FlowAI, Remote (India)
+Helped shape agent architecture choices for hard scientific problem-solving workflows.
+Curated benchmark questions for evaluating LLM reasoning quality and hallucination behavior on mathematical tasks.
 
-Publications 
+Publications
+Gupta N., Suryanarayana N.V. (2021) Constructing Carrollian CFTs. J. High Energ. Phys. 2021, 194.
+Gupta N., Paul P., Suryanarayana N.V. (2023) sl-hat_2 Symmetry of R^{1,3} Gravity. Phys. Rev. D 108, 086029.
+Gupta N., Suryanarayana N.V. (2024) All Chiral W-algebra Extensions of so(2,3). J. High Energ. Phys. 2024, 137.
+Gupta N., Suryanarayana N.V. (2025) A Chiral Lambda-bms_4 Symmetry of AdS_4 Gravity. Nucl. Phys. B 1010, 116759.
+Gupta N., Suryanarayana N.V. (2025) Chiral Lambda-bms_4 Symmetry of 3D Conformal Gravity. Eur. Phys. J. C 85, 468.
+Banerjee S., Gupta N., Misra S. (2025) Worldsheet CFT2 and Celestial CFT2: An AdS3-CFT2 Perspective. arXiv:2506.14891 [hep-th].
 
-Srivastava Y., Bonn-Breach R., Chavali S.S., Lippa G.M., Jenkins J.L., Wedekind J.E. (2021) Affinity and structural analysis of the U1A RNA recognition motif with engineered methionines to improve experimental phasing. Crystals 11, 273.
-Srivastava Y., Blau M., Jenkins J.L. Wedekind J.E. (2023) Full-length NAD+-I riboswitches bind a single co-factor but cannot discriminate against adenosine triphosphate. Biochemistry 62, 23.
-Srivastava Y., Akinyemi O., Pritchett E.M., Baker C.D., Jenkins J.L., Mathews D.H., Wedekind J.E. (2023) Two riboswitches that share a common ligand-binding fold show dramatic differences in the ability to accommodate mutations. Nucleic Acids Res. 2024 Nov 27;52(21):13152-13173.
-Kiliushik D., Goenner C., Schroeder G.M., Srivastava Y., Jenkins J.L, Wedekind J.E. (2023) Translation regulation by the preQ1 riboswitch family. Journal of Biological Chemistry, Volume 300, Issue 12, 107951 
-Rachael C. Kretsch, Reinhard Albrecht, Ebbe S. Andersen, Hsuan-Ai Chen, Wah Chiu, Rhiju Das, Jeanine G. Gezelle, Marcus D. Hartmann, Claudia Höbartner, Yimin Hu, Shekhar Jadhav, Philip E. Johnson, Christopher P. Jones, Deepak Koirala, Emil L. Kristoffersen, Eric Largy, Anna Lewicka, Cameron D. Mackereth, Marco Marcia, Michela Nigro, Manju Ojha, Joseph A. Piccirilli, Phoebe A. Rice, Heewhan Shin, Anna-Lena Steckelberg, Zhaoming Su, Yoshita Srivastava, Liu Wang, Yuan Wu, Jiahao Xie, Nikolaj H. Zwergius, John Moult, Andriy Kryshtafovych. Functional relevance of CASP16 nucleic acid predictions as evaluated by structure providers. Proteins. 2025 Sep 4. doi: 10.1002/prot.70043. PMID: 40568131; PMCID: PMC12191101.
-
-Preprint/ Upcoming
-Youhan Lee, Shujun He, Toshiyuki Oda, G.John Rao, Yehyun Kim, Raehyun Kim, Hyunjin Kim, CherKeng Heng, Danny Kowerko, Haowei Li, Hoa Nguyen, Arunodhayan Sampathkumar, Raúl EnriqueGómez, Meng Chen, Atsushi Yoshizawa, Shun Kuraishi, Kenji Ogawa, Shuxian Zou, Alejo Paullier, Bingkang Zhao, Huey-Long Chen, Tsu-An Hsu, Tatsuya Hirano, Wah Chiu, JeanineG. Gezelle, Daniel Haack, Yibao Hong, Shekhar Jadhav, Deepak Koirala, Rachael C Kretsch, Anna Lewicka, Shanshan Li, Marco Marcia, Joseph Piccirilli, Boris Rudolfs, Yoshita Srivastava, AnnaLena Steckelberg, Zhaoming Su, Navtej Toor, Liu Wang, Zi Yang, Kaiming Zhang, Jian Zou, David Baker, ShiJie Chen, Maggie Demkin, Andrew Favor, Alissa M Hummer, ChaitanyaK. Joshi, Andriy Kryshtafovych, Emine Küçükbenli, Zhichao Miao, John Moult, Christian Munley, Walter Reade, Theo Viel, Eric Westhof, Sicheng Zhang, Rhiju Das, Template-based RNA structure prediction advanced through a blind code competition, biorxiv 2025.12.30.696949; doi: https://doi.org/10.64898/2025.12.30.696949
-Characterization of U1A stemloop II binding antibody, Yoshita Srivastava, Matt Moore, Joseph Piccirilli, In Preparation.
+Preprint/Upcoming
+Deriving Celestial CFT using 3d conformal gravity.
 
 Talks and Presentations
-Talk entitled, Two riboswitches that share a common ligand-binding site show dramatic differences in their ability to accommodate mutations Chemistry-Biology Interface Retreat, University of Rochester, June 2023
-Poster, Two riboswitches that share a common ligand binding fold show dramatic differences in the ability to accommodate mutations, American Crystallographic Association Annual Meeting, Portland OR, August 2022
-Poster, Analysis of cofactor binding by NAD riboswitches, Microbes and RNA Conference, (virtual), January 2022  
+Talk, Towards Engineering Celestial CFTs - An AdS-CFT perspective, Indian Strings Meeting 2025, IIT and NISER Bhubaneswar, December 2025
+Seminar, Worldsheet CFT2 and Celestial CFT2: An AdS3/CFT2 perspective, CCPP, New York University, August 2025
+Seminar, Worldsheet CFT2 and Celestial CFT2: An AdS3/CFT2 perspective, Special Leinweber Seminar, KCTP, University of Chicago, August 2025
+Talk, Chiral W-algebra from 3d conformal gravity, Indian Strings Meeting, IIT Bombay, December 2023
+Talk, All chiral W-algebra extensions of so(2,3), Indian Institute of Science, Bangalore, October 2023
 
-Workshops and Seminars 
-Mentor’s training workshop for postdocs, June 2025
-NE-CAT data collection workshop, Argonne National Laboratory, July 2025
-Hands-on Single-Particle Cryo-EM Data Analysis with cryoEDU, Annual Meeting of American Crystallographic Association, August 2022
-
-Awards
-Muttaiya Sundaralingam/Linus Pauling Poster Award, American Crystallographic Association Annual Meeting (Portland OR), August 2022
-Student Travel Award, American Crystallographic Association, Portland OR, 2022
-Neuman Travel Award, Department of Biochemistry and Biophysics, University of Rochester, Spring 2020
-Kishore Vaigyanic Protsahan Yojana (KVPY) Fellowship, Department of Science and Technology, Government of India, awarded in 2014, renewed yearly through 2018.
-
-Teaching/Mentoring Experience 
-Teaching Assistant, IND408 Advanced Biochemistry, a class offered to graduate and senior undergraduate students (Fall, 2019).
-Project Supervisor, undergraduate research coursework, 2022. 
-Lab Rotation Supervisor, project supervision for three graduate students, 2021 and 2022
-
-Community Outreach
-Volunteer, technical support for sessions of American Crystallographic Association, 2021 (virtual) conference.
-Volunteer, Department of Biochemistry & Biophysics interview weekend. Served as host and presented research poster on 12th Feb 2022 and 5th March 2022.
-Communications Team Member, Alliance for Diversity in Science and Engineering, University of Rochester
+Projects
+Autonomous Multi-Agent Data Analysis System - LangGraph, Python, LLM evaluation. https://github.com/nisg-phys/Autonomous-Data-Analysis-Agents
+Production RAG System for Python Documentation - FastAPI, Pinecone, BM25. https://github.com/nisg-phys/RAG-for-Python3.14
+langchain-community-inspire-hep (PyPI) - LangChain, Pydantic, Python packaging. https://pypi.org/project/langchain-community-inspire-hep/
