@@ -11,6 +11,13 @@ cleanup() {
 trap cleanup EXIT
 
 cat >"${tmp_override}" <<'YAML'
+defaults:
+  - scope:
+      path: "_pages/about.md"
+    values:
+      layout: distill
+      giscus_comments: true
+
 giscus:
   repo: alshedivat/al-folio
   repo_id: R_kgDOExample
@@ -20,7 +27,7 @@ YAML
 
 bundle exec jekyll build --config "_config.yml,${tmp_override}" -d "${tmp_site}" >/dev/null
 
-distill_page="${tmp_site}/blog/2021/distill/index.html"
+distill_page="${tmp_site}/about/index.html"
 
 if [ ! -f "${distill_page}" ]; then
   echo "distill page was not generated at ${distill_page}" >&2
