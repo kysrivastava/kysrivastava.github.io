@@ -5,31 +5,34 @@ permalink: /about/
 nav_order: 1
 ---
 
-Welcome to my academic website! I am a postdoctoral scholar specializing in RNA structural biology and biochemistry.
+I’m Yoshita Srivastava, a postdoctoral scholar in RNA structural biology and biochemistry at the University of Chicago.
 
 ## Current Position
-**Postdoctoral Scholar** (2024–Present)
-Department of Biochemistry and Molecular Biology
+**Postdoctoral Scholar** (2024–Present)  
+Department of Biochemistry and Molecular Biology  
 Division of Biological Sciences, University of Chicago
 
 ## Education
-- **Ph.D. in Biophysics** (2018–2024)
-  University of Rochester Medical Center
+- **Ph.D. in Biophysics** (2018–2024)  
+  University of Rochester Medical Center  
   Thesis Advisor: Prof. Joseph E. Wedekind
 
-- **Integrated BS/MS in Biology** (2013–2018)
-  Homi Bhabha Research Institute via National Institute of Science Education and Research (NISER)
+- **Integrated BS/MS in Biology** (2013–2018)  
+  Homi Bhabha Research Institute via National Institute of Science Education and Research (NISER)  
   Thesis Advisor: Dr. Rudresh Acharya
 
 ## Research Focus
-My research focuses on the structure and function analysis of bacterial riboswitches that control translation, as well as RNA-Fab interfaces characterization. I employ a combination of structural biology techniques including X-ray crystallography, biolayer interferometry, and cryo-EM.
+My research centers on riboswitch structure and function, RNA-ligand recognition, and RNA-Fab interface characterization. I use X-ray crystallography, biolayer interferometry (BLI), surface plasmon resonance (SPR), SHAPE-seq, ITC, SEC, and reporter assays.
 
-## Selected Highlights
-- Characterized binding kinetics and established structure-function relationships for RNA-Antibody fragment (Fab) interfaces
-- Optimized Fab constructs and crystallized RNA-Fab complexes, solved structures to 2.7Å resolution
-- Crystallized and solved structures of four PreQ1-III riboswitch mutants in complex with their ligands
-- Characterized ligand binding thermodynamics for NAD+-I riboswitches using ITC and SEC
-- Developed RNA crystallization and phasing modules through engineering approaches
+## Highlights
+- Characterized binding kinetics and structure-function relationships for RNA-Fab interfaces
+- Optimized Fab constructs and solved an RNA-Fab complex structure to 2.7 Å resolution
+- Solved structures of four PreQ1-III riboswitch mutants with ligands
+- Characterized ligand recognition for NAD+-I riboswitches
+- Developed RNA crystallization and phasing methods
 
-## Quick Links
-[Research](/research/) | [Publications](/publications/) | [CV](/cv/)
+## Contact
+- Email: <a href="mailto:yoshitasrivastava@gmail.com">yoshitasrivastava@gmail.com</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/yoshita-srivastava/" target="_blank" rel="noopener">linkedin.com/in/yoshita-srivastava</a>
+
+[CV](/cv/) | [Research](/research/) | [Publications](/publications/)

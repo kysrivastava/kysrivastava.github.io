@@ -1,0 +1,294 @@
+cv:
+  name: Yoshita Srivastava, Ph.D.
+  label: Postdoctoral Scholar, RNA Structural Biology
+  email: yoshitasrivastava@gmail.com
+  location: Chicago, IL, USA
+  image: ""
+  summary: Postdoctoral scholar in RNA structural biology and biochemistry, focused on riboswitches, RNA-ligand recognition, and RNA-Fab interfaces.
+
+  social_networks:
+    - network: LinkedIn
+      username: yoshita-srivastava
+
+  sections:
+    Education:
+      - institution: University of Rochester Medical Center
+        location: Rochester, NY, USA
+        area: Biophysics
+        studyType: PhD
+        start_date: 2018
+        end_date: 2024
+        score: ""
+        highlights:
+          - Thesis Advisor: Prof. Joseph E. Wedekind
+          - Structure and function analysis of bacterial riboswitches that control translation
+
+      - institution: Homi Bhabha Research Institute via National Institute of Science Education and Research (NISER)
+        location: India
+        area: Biology
+        studyType: Integrated BS/MS
+        start_date: 2013
+        end_date: 2018
+        highlights:
+          - Thesis Advisor: Dr. Rudresh Acharya
+
+    Experience:
+      - company: University of Chicago
+        position: Post-doctoral Scholar
+        location: Chicago, IL, USA
+        start_date: 2024
+        end_date: present
+        summary: Department of Biochemistry and Molecular Biology, Division of Biological Sciences.
+        highlights:
+          - Characterized binding kinetics and structure-function relationships for RNA-Fab interfaces using BLI and SPR
+          - Optimized Fab constructs and crystallized an RNA-Fab complex solved to 2.7 Å resolution
+
+      - company: University of Rochester Medical Center
+        position: Graduate Research Assistant
+        location: Rochester, NY, USA
+        start_date: 2018
+        end_date: 2024
+        summary: Department of Biophysics, Structural, and Computational Biology.
+        highlights:
+          - Crystallized and solved structures of four PreQ1-III riboswitch mutants using Phenix, Coot, XDS, and CCP4
+          - Optimized a GFP-based bacterial reporter assay for riboswitch mutants
+          - Characterized RNA secondary structure with SHAPE-seq and analyzed data with Python and GraphPad Prism
+          - Measured ligand binding thermodynamics and stoichiometry for NAD+-I riboswitches using ITC and SEC
+          - Developed RNA crystallization and phasing modules by engineering methionine residues and RNA-binding proteins
+
+      - company: Homi Bhabha Research Institute
+        position: Research Assistant, MS
+        location: India
+        start_date: 2016
+        end_date: 2018
+        highlights:
+          - Cloned, expressed, and purified the sensory domain of a Zn-sensing protein (ZraS)
+
+    Publications:
+      - title: "Two riboswitches that share a common ligand-binding fold show dramatic differences in the ability to accommodate mutations"
+        authors:
+          - "Srivastava Y."
+          - "Akinyemi O."
+          - "Pritchett E.M."
+          - "Baker C.D."
+          - "Jenkins J.L."
+          - "Mathews D.H."
+          - "Wedekind J.E."
+        publisher: "Nucleic Acids Research"
+        releaseDate: 2024-11-27
+        summary: Published in 2024.
+
+      - title: "Full-length NAD+-I riboswitches bind a single co-factor but cannot discriminate against adenosine triphosphate"
+        authors:
+          - "Srivastava Y."
+          - "Blau M."
+          - "Jenkins J.L."
+          - "Wedekind J.E."
+        publisher: Biochemistry
+        releaseDate: 2023
+        summary: Published in 2023.
+
+      - title: "Affinity and structural analysis of the U1A RNA recognition motif with engineered methionines to improve experimental phasing"
+        authors:
+          - "Srivastava Y."
+          - "Bonn-Breach R."
+          - "Chavali S.S."
+          - "Lippa G.M."
+          - "Jenkins J.L."
+          - "Wedekind J.E."
+        publisher: Crystals
+        releaseDate: 2021
+        summary: Published in 2021.
+
+      - title: "Translation regulation by the preQ1 riboswitch family"
+        authors:
+          - "Kiliushik D."
+          - "Goenner C."
+          - "Schroeder G.M."
+          - "Srivastava Y."
+          - "Jenkins J.L."
+          - "Wedekind J.E."
+        publisher: "Journal of Biological Chemistry"
+        releaseDate: 2023
+        summary: Published in 2023.
+
+    Projects:
+      - name: RNA-Fab interface characterization
+        summary: Characterized RNA-antibody fragment interfaces by biolayer interferometry and SPR.
+        highlights:
+          - Established structure-function relationships for RNA-Fab binding
+          - Solved an RNA-Fab complex structure to 2.7 Å resolution
+        start_date: 2024
+        end_date: present
+
+      - name: Riboswitch structure and function analysis
+        summary: Investigated bacterial riboswitch mutants and ligand recognition.
+        highlights:
+          - Solved structures of four PreQ1-III riboswitch mutants
+          - Characterized NAD+-I riboswitch ligand recognition and thermodynamics
+        start_date: 2018
+        end_date: 2024
+
+    Volunteer:
+      - company: American Crystallographic Association
+        position: Volunteer, technical support
+        location: Virtual
+        start_date: 2021
+        end_date: 2021
+        highlights:
+          - Supported sessions for the annual conference
+
+      - company: Department of Biochemistry & Biophysics interview weekend
+        position: Volunteer
+        location: University of Rochester
+        start_date: 2022
+        end_date: 2022
+        highlights:
+          - Served as host and presented a research poster
+
+      - company: Alliance for Diversity in Science and Engineering
+        position: Communications Team Member
+        location: University of Rochester
+        start_date: 2021
+        end_date: 2022
+
+    Awards:
+      - title: Muttaiya Sundaralingam/Linus Pauling Poster Award
+        authors:
+          - "American Crystallographic Association Annual Meeting"
+        date: 2022-08-01
+        awarder: American Crystallographic Association
+        summary: Portland, OR.
+
+      - title: Student Travel Award
+        authors:
+          - "American Crystallographic Association"
+        date: 2022
+        awarder: American Crystallographic Association
+        summary: Portland, OR.
+
+      - title: Neuman Travel Award
+        authors:
+          - "Department of Biochemistry and Biophysics, University of Rochester"
+        date: 2020
+        awarder: University of Rochester
+        summary: Spring 2020.
+
+      - title: KVPY Fellowship
+        authors:
+          - "Department of Science and Technology, Government of India"
+        date: 2014
+        awarder: Government of India
+        summary: Renewed yearly through 2018.
+
+    Talks and Presentations:
+      - company: Chemistry-Biology Interface Retreat, University of Rochester
+        position: Talk
+        location: Rochester, NY, USA
+        start_date: 2023
+        end_date: 2023
+        summary: "Two riboswitches that share a common ligand-binding site show dramatic differences in their ability to accommodate mutations."
+
+      - company: American Crystallographic Association Annual Meeting
+        position: Poster
+        location: Portland, OR, USA
+        start_date: 2022
+        end_date: 2022
+        summary: "Two riboswitches that share a common ligand-binding fold show dramatic differences in the ability to accommodate mutations."
+
+      - company: Microbes and RNA Conference
+        position: Poster
+        location: Virtual
+        start_date: 2022
+        end_date: 2022
+        summary: "Analysis of cofactor binding by NAD riboswitches."
+
+    Workshops and Seminars:
+      - company: Mentor’s training workshop for postdocs
+        position: Workshop
+        location: Virtual
+        start_date: 2025
+        end_date: 2025
+
+      - company: NE-CAT data collection workshop, Argonne National Laboratory
+        position: Workshop
+        location: Argonne, IL, USA
+        start_date: 2025
+        end_date: 2025
+
+      - company: Hands-on Single-Particle Cryo-EM Data Analysis with cryoEDU
+        position: Seminar
+        location: American Crystallographic Association Annual Meeting
+        start_date: 2022
+        end_date: 2022
+
+    Teaching and Mentoring Experience:
+      - company: University of Rochester
+        position: Teaching Assistant, IND408 Advanced Biochemistry
+        location: Rochester, NY, USA
+        start_date: 2019
+        end_date: 2019
+        highlights:
+          - Supported graduate and senior undergraduate instruction
+
+      - company: University of Rochester
+        position: Project Supervisor
+        location: Rochester, NY, USA
+        start_date: 2022
+        end_date: 2022
+        highlights:
+          - Supervised undergraduate research coursework
+
+      - company: University of Rochester
+        position: Lab Rotation Supervisor
+        location: Rochester, NY, USA
+        start_date: 2021
+        end_date: 2022
+        highlights:
+          - Supervised three graduate student rotations
+
+    Skills:
+      - name: Structural Biology
+        level: Advanced
+        icon: fa-solid fa-atom
+        keywords: "X-ray crystallography, BLI, SPR, cryo-EM, Phenix, Coot, XDS, CCP4"
+
+      - name: Biochemical Methods
+        level: Advanced
+        icon: fa-solid fa-flask
+        keywords: "ITC, SEC, GFP reporter assays, SHAPE-seq"
+
+      - name: Computational
+        level: Intermediate
+        icon: fa-solid fa-laptop-code
+        keywords: "Python, GraphPad Prism, data analysis, data visualization"
+
+    Languages:
+      - name: English
+        summary: Fluent
+
+      - name: Hindi
+        summary: Fluent
+
+    Community Outreach:
+      - company: American Crystallographic Association
+        position: Volunteer, technical support
+        location: Virtual
+        start_date: 2021
+        end_date: 2021
+        highlights:
+          - Supported conference sessions
+
+      - company: Department of Biochemistry & Biophysics interview weekend
+        position: Volunteer
+        location: University of Rochester
+        start_date: 2022
+        end_date: 2022
+        highlights:
+          - Hosted visitors and presented research
+
+      - company: Alliance for Diversity in Science and Engineering
+        position: Communications Team Member
+        location: University of Rochester
+        start_date: 2021
+        end_date: 2022
