@@ -2,32 +2,34 @@
 layout: page
 title: "Publications"
 permalink: /publications/
-nav_order: 3
+nav: true
+nav_order: 4
 ---
 
 ## Selected Publications
 
-1. **Srivastava Y., Akinyemi O., Pritchett E.M., Baker C.D., Jenkins J.L., Mathews D.H., Wedekind J.E.**
-   _Two riboswitches that share a common ligand-binding fold show dramatic differences in the ability to accommodate mutations._ Nucleic Acids Research 52(21):13152–13173 (2024).
+Publication records and citation details are also available through my [INSPIRE-HEP profile](https://inspirehep.net/authors/2148050?ui-citation-summary=true).
 
-2. **Srivastava Y., Blau M., Jenkins J.L., Wedekind J.E.**
-   _Full-length NAD+-I riboswitches bind a single co-factor but cannot discriminate against adenosine triphosphate._ Biochemistry 62 (2023).
+1. **S. Banerjee, N. Gupta, S. Misra**
+   _Worldsheet CFT<sub>2</sub> and Celestial CFT<sub>2</sub>: An AdS<sub>3</sub>-CFT<sub>2</sub> Perspective._ [arXiv:2506.14891 [hep-th]](https://doi.org/10.48550/arXiv.2506.14891) (2025).
 
-3. **Srivastava Y., Bonn-Breach R., Chavali S.S., Lippa G.M., Jenkins J.L., Wedekind J.E.**
-   _Affinity and structural analysis of the U1A RNA recognition motif with engineered methionines to improve experimental phasing._ Crystals 11, 273 (2021).
+2. **N. Gupta, N. V. Suryanarayana**
+   _Chiral Λ-bms<sub>4</sub> Symmetry of 3D Conformal Gravity._ [Eur. Phys. J. C 85 (2025) 4, 468](https://doi.org/10.1140/epjc/s10052-025-14162-5).
 
-4. **Kiliushik D., Goenner C., Schroeder G.M., Srivastava Y., Jenkins J.L., Wedekind J.E.**
-   _Translation regulation by the preQ1 riboswitch family._ Journal of Biological Chemistry 300(12):107951 (2023).
+3. **N. Gupta, N. V. Suryanarayana**
+   _A Chiral Λ-bms<sub>4</sub> Symmetry of AdS<sub>4</sub> Gravity._ [Nucl. Phys. B 1010 (2025) 116759](https://doi.org/10.1016/j.nuclphysb.2024.116759).
 
-5. **Kretsch R.C. et al.**
-   _Functional relevance of CASP16 nucleic acid predictions as evaluated by structure providers._ Proteins (2025).
+4. **N. Gupta, N. V. Suryanarayana**
+   _All Chiral W-algebra Extensions of so(2,3)._ [J. High Energ. Phys. 2024, 137](<https://doi.org/10.1007/JHEP08(2024)137>).
 
-## Preprints and In Preparation
+5. **N. Gupta, P. Paul, N. V. Suryanarayana**
+   _sl̂<sub>2</sub> Symmetry of ℝ<sup>1,3</sup> Gravity._ [Phys. Rev. D 108 (2023) 8, 086029](https://doi.org/10.1103/PhysRevD.108.086029).
 
-- **Youhan Lee et al.**
-  _Template-based RNA structure prediction advanced through a blind code competition._ bioRxiv (2025).
+6. **N. Gupta, N. V. Suryanarayana**
+   _Constructing Carrollian CFTs._ [J. High Energ. Phys. 2021, 194](<https://doi.org/10.1007/JHEP03(2021)194>).
 
-- **Srivastava Y., Moore M., Piccirilli J.**
-  _Characterization of U1A stemloop II binding antibody._ In preparation.
+## Upcoming Preprint
 
-For the full publication list, see the [CV](/cv/) page.
+- Deriving Celestial CFT using 3d conformal gravity
+
+For the full publication list and CV, see the [CV](/cv/) page.

@@ -5,19 +5,21 @@ permalink: /
 nav_order: 0
 ---
 
-Welcome to my academic website!
+Welcome to my site!
 
-I'm Yoshita Srivastava, a postdoctoral scholar in RNA structural biology and biochemistry at the University of Chicago.
+I'm Nishant Gupta, an AI engineer with a PhD in theoretical physics. I currently build retail automation systems for Target India via eTeam India, and I am most interested in work that sits between research curiosity and practical engineering.
 
 ## About Me
 
-I specialize in riboswitch structure and function, RNA-ligand recognition, and RNA-Fab interface characterization. My research uses X-ray crystallography, biolayer interferometry (BLI), surface plasmon resonance (SPR), SHAPE-seq, ITC, SEC, and reporter assays.
+This site is a home for both sides of that work: the systems I build, the physics background that still shapes how I think, and the research questions I keep returning to when engineering alone is not the whole story.
+
+**What I'm working on now:** retail AI systems — skills-based workflows, architecture experiments, evaluation, and the day-to-day task of comparing approaches on accuracy, cost, and operational reliability before they are trusted in production.
 
 ## Quick Links
 
 - [About Me](/about/) - Learn more about my background and experience
-- [Research](/research/) - Explore my current research projects
-- [Publications](/publications/) - View my recent publications
+- [Research](/research/) - Publications, research interests, and selected talks connecting my physics background with active AI research
+- [Projects](/projects/) - A small set of projects in retrieval, agent workflows, and tools
 - [CV](/cv/) - Download my curriculum vitae
 
-My work focuses on understanding how RNA molecules recognize ligands and function in biological systems, with applications in structural biology and biotechnology.
+My work spans production AI systems — retrieval, agent workflows, and evaluation — and theoretical physics research on asymptotic symmetries, holography, and celestial/Carrollian conformal field theories.

@@ -2,23 +2,23 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Yoshita Srivastava
-first_name: Yoshita
+title: Nishant Gupta
+first_name: Nishant
 middle_name:
-last_name: Srivastava
+last_name: Gupta
 contact_note: >
-  Postdoctoral scholar in RNA structural biology and biochemistry at the University of Chicago.
+  Development Engineer, PhD in Theoretical Physics — building AI systems, with research roots in asymptotic symmetries and celestial holography.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Postdoctoral scholar in RNA structural biology and biochemistry, focused on riboswitches, RNA-Fab interfaces, and structure-function studies.
+  AI engineering, theoretical physics, and research-oriented work. Development Engineer working on retail AI systems, with a research background in asymptotic symmetries, holography, and celestial/Carrollian conformal field theories.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/al-org-dev/al-folio-core">al-folio</a> runtime.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: yoshita srivastava, biophysics, rna, riboswitch, biochemistry, academic website
+keywords: nishant gupta, ai engineer, theoretical physics, celestial holography, carrollian cft, w-algebras, asymptotic symmetries, machine learning, academic website
 lang: en
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
 
-url: "https://kysrivastava.github.io" # the base hostname & protocol for your site
+url: "https://nisg-phys.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -355,8 +355,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Gupta]
+  first_name: [Nishant, N.]
 
   style: apa
   locale: en

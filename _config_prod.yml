@@ -1,22 +1,22 @@
-# Jekyll Production Configuration for Yoshita Srivastava Academic Website
+# Jekyll Production Configuration for Nishant Gupta's Academic Website
 # Optimized for GitHub Pages deployment
 
-title: Yoshita Srivastava
-name: Yoshita Srivastava
-email: yoshitasrivastava@gmail.com
+title: Nishant Gupta
+name: Nishant Gupta
+email: nishantgupta.phy@gmail.com
 description: >
-  Postdoctoral scholar in RNA structural biology and biochemistry.
-  Research focuses on bacterial riboswitches and RNA-Fab interfaces.
+  Development Engineer with a PhD in Theoretical Physics.
+  Research focuses on asymptotic symmetries, holography, and celestial/Carrollian conformal field theories.
 baseurl: "" # Root URL (leave empty for GitHub Pages)
-url: "https://kysrivastava.github.io" # Your GitHub Pages URL
+url: "https://nisg-phys.github.io" # Your GitHub Pages URL
 lang: en
 locale: en_US
 
 # Author info
 author:
-  name: Yoshita Srivastava
-  email: yoshitasrivastava@gmail.com
-  linkedin: https://www.linkedin.com/in/yoshita-srivastava/
+  name: Nishant Gupta
+  email: nishantgupta.phy@gmail.com
+  linkedin: https://linkedin.com/in/nishantg93
 
 # al-folio theme settings
 markdown: kramdown
@@ -74,7 +74,7 @@ defaults:
       type: "pages"
     values:
       layout: "default"
-      author: "Yoshita Srivastava"
+      author: "Nishant Gupta"
       permalink: /:title/
       show_social: true
 
@@ -98,8 +98,8 @@ sitemap:
 # SEO settings
 seo_tag:
   type: "Person"
-  name: "Yoshita Srivastava"
-  location: "Chicago, IL"
-  organization: "University of Chicago"
-  role: "Postdoctoral Scholar"
-  description: "Postdoctoral scholar in RNA structural biology and biochemistry"
+  name: "Nishant Gupta"
+  location: "Bengaluru, India"
+  organization: "eTeam India"
+  role: "Development Engineer"
+  description: "Development Engineer with a PhD in Theoretical Physics, working on AI systems and celestial holography research"
