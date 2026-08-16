@@ -5,18 +5,37 @@ tmp_dir="$(mktemp -d)"
 tmp_override="${tmp_dir}/distill-override.yml"
 tmp_site="${tmp_dir}/site"
 
+# A disposable fixture page, not a real site page: Jekyll front matter always
+# wins over `defaults:` in config, so forcing `layout: distill` via a scoped
+# default on an existing page only works if that page has no layout of its
+# own. Piggybacking on _pages/about.md broke the moment its front matter set
+# `layout: page`. Declaring the layout directly in a throwaway fixture avoids
+# depending on the content of any real page.
+fixture_page="_pages/integration-distill-fixture.md"
+
 cleanup() {
+  rm -f "${fixture_page}"
   rm -rf "${tmp_dir}"
 }
 trap cleanup EXIT
 
+cat >"${fixture_page}" <<'MARKDOWN'
+---
+layout: distill
+title: "Distill Integration Fixture"
+permalink: /integration-distill-fixture/
+giscus_comments: true
+mermaid:
+  enabled: true
+tikzjax: true
+---
+
+Fixture content for the distill integration test.
+MARKDOWN
+
 cat >"${tmp_override}" <<'YAML'
-defaults:
-  - scope:
-      path: "_pages/about.md"
-    values:
-      layout: distill
-      giscus_comments: true
+exclude:
+  - assets/jupyter/blog.ipynb
 
 giscus:
   repo: alshedivat/al-folio
@@ -27,7 +46,7 @@ YAML
 
 bundle exec jekyll build --config "_config.yml,${tmp_override}" -d "${tmp_site}" >/dev/null
 
-distill_page="${tmp_site}/about/index.html"
+distill_page="${tmp_site}/integration-distill-fixture/index.html"
 
 if [ ! -f "${distill_page}" ]; then
   echo "distill page was not generated at ${distill_page}" >&2

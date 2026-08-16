@@ -8,10 +8,50 @@
 set -euo pipefail
 
 tmp_dir="$(mktemp -d)"
+
+# al_rtl and al_marimo are exercised through demo posts, not standalone
+# fixtures, so this test needs `_posts/` to contain one post per plugin. A
+# site with no blog content of its own (an empty or absent `_posts/`) must
+# not fail this check, so the fixtures are created here and removed in the
+# trap rather than kept as permanent demo content.
+posts_dir="_posts"
+posts_dir_created=false
+rtl_fixture="${posts_dir}/2022-06-01-integration-rtl-fixture.md"
+marimo_fixture="${posts_dir}/2025-06-01-integration-marimo-fixture.md"
+
 cleanup() {
+  rm -f "${rtl_fixture}" "${marimo_fixture}"
+  if [ "${posts_dir_created}" = true ]; then
+    rmdir "${posts_dir}" 2>/dev/null || true
+  fi
   rm -rf "${tmp_dir}"
 }
 trap cleanup EXIT
+
+if [ ! -d "${posts_dir}" ]; then
+  mkdir "${posts_dir}"
+  posts_dir_created=true
+fi
+
+cat >"${rtl_fixture}" <<'MARKDOWN'
+---
+layout: post
+title: "RTL Integration Fixture"
+lang: fa
+---
+
+متن نمونه برای آزمون یکپارچه‌سازی راست‌به‌چپ.
+MARKDOWN
+
+cat >"${marimo_fixture}" <<'MARKDOWN'
+---
+layout: post
+title: "Marimo Integration Fixture"
+marimo: true
+---
+
+Fixture content for the marimo integration test.
+MARKDOWN
 
 build() {
   local name="$1"
@@ -30,8 +70,8 @@ fail() {
 
 default_site="$(build default)"
 
-rtl_page="${default_site}/blog/2022/rtl/index.html"
-[ -f "${rtl_page}" ] || fail "RTL demo post was not built"
+rtl_page="${default_site}/blog/2022/integration-rtl-fixture/index.html"
+[ -f "${rtl_page}" ] || fail "RTL fixture post was not built"
 
 # dir must sit on <html>, not on a wrapper: that is what the browser's bidi
 # algorithm and CSS logical properties key off.
@@ -49,8 +89,8 @@ grep -q 'assets/al_rtl/css/rtl.css' "${default_site}/index.html" && fail "home p
 
 # --- al_marimo --------------------------------------------------------------
 
-marimo_page="${default_site}/blog/2025/marimo/index.html"
-[ -f "${marimo_page}" ] || fail "marimo demo post was not built"
+marimo_page="${default_site}/blog/2025/integration-marimo-fixture/index.html"
+[ -f "${marimo_page}" ] || fail "marimo fixture post was not built"
 
 grep -q 'assets/al_marimo/js/marimo-snippets.js' "${marimo_page}" || fail "marimo post does not load the runtime"
 [ -f "${default_site}/assets/al_marimo/js/marimo-snippets.js" ] || fail "marimo runtime is referenced but not published"
