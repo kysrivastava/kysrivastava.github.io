@@ -1,36 +1,36 @@
 cv:
   name: Yoshita Srivastava, Ph.D.
-  label: Postdoctoral Scholar, RNA Structural Biology
+  headline: Postdoctoral Scholar, RNA Structural Biology
   email: yoshitasrivastava@gmail.com
   location: Chicago, IL, USA
-  image: ""
-  summary: Postdoctoral scholar in RNA structural biology and biochemistry, focused on riboswitches, RNA-ligand recognition, and RNA-Fab interfaces.
 
   social_networks:
     - network: LinkedIn
       username: yoshita-srivastava
 
   sections:
+    Summary:
+      - Postdoctoral scholar in RNA structural biology and biochemistry, focused on riboswitches, RNA-ligand recognition, and RNA-Fab interfaces.
+
     Education:
       - institution: University of Rochester Medical Center
         location: Rochester, NY, USA
         area: Biophysics
-        studyType: PhD
+        degree: PhD
         start_date: 2018
         end_date: 2024
-        score: ""
         highlights:
-          - Thesis Advisor: Prof. Joseph E. Wedekind
+          - "Thesis Advisor: Prof. Joseph E. Wedekind"
           - Structure and function analysis of bacterial riboswitches that control translation
 
       - institution: Homi Bhabha Research Institute via National Institute of Science Education and Research (NISER)
         location: India
         area: Biology
-        studyType: Integrated BS/MS
+        degree: Integrated BS/MS
         start_date: 2013
         end_date: 2018
         highlights:
-          - Thesis Advisor: Dr. Rudresh Acharya
+          - "Thesis Advisor: Dr. Rudresh Acharya"
 
     Experience:
       - company: University of Chicago
@@ -74,8 +74,8 @@ cv:
           - "Jenkins J.L."
           - "Mathews D.H."
           - "Wedekind J.E."
-        publisher: "Nucleic Acids Research"
-        releaseDate: 2024-11-27
+        journal: "Nucleic Acids Research"
+        date: "2024-11-27"
         summary: Published in 2024.
 
       - title: "Full-length NAD+-I riboswitches bind a single co-factor but cannot discriminate against adenosine triphosphate"
@@ -84,8 +84,8 @@ cv:
           - "Blau M."
           - "Jenkins J.L."
           - "Wedekind J.E."
-        publisher: Biochemistry
-        releaseDate: 2023
+        journal: Biochemistry
+        date: 2023
         summary: Published in 2023.
 
       - title: "Affinity and structural analysis of the U1A RNA recognition motif with engineered methionines to improve experimental phasing"
@@ -96,8 +96,8 @@ cv:
           - "Lippa G.M."
           - "Jenkins J.L."
           - "Wedekind J.E."
-        publisher: Crystals
-        releaseDate: 2021
+        journal: Crystals
+        date: 2021
         summary: Published in 2021.
 
       - title: "Translation regulation by the preQ1 riboswitch family"
@@ -108,8 +108,8 @@ cv:
           - "Srivastava Y."
           - "Jenkins J.L."
           - "Wedekind J.E."
-        publisher: "Journal of Biological Chemistry"
-        releaseDate: 2023
+        journal: "Journal of Biological Chemistry"
+        date: 2023
         summary: Published in 2023.
 
     Projects:
